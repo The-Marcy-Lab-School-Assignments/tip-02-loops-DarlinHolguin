@@ -9,4 +9,4 @@ function staircaseSum(n) {
   return total;
 }
 
-console.log(staircaseSum(5)); // Call the function with 5; output: 15
+console.log(staircaseSum()); // Call the function with 5; output: 15
